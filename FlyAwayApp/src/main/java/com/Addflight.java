@@ -97,7 +97,7 @@ public class Addflight extends HttpServlet {
 
 			
 		} catch (Exception e) {
-			// TODO: handle exception
+			
 		}
 		
 	}
