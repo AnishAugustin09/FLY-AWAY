@@ -90,12 +90,11 @@ public class Addflight extends HttpServlet {
 			out.println("</TITLE>");
 			out.println("</head>");
 			out.println("<body >");
-			//out.println(e.getMessage());
+			
 
 			out.println("</body>");
 			out.println("</html>");
-//			RequestDispatcher rd= getServletContext().getRequestDispatcher("AdminHome.jsp");
-//			rd.forward(request, response);
+
 			
 		} catch (Exception e) {
 			// TODO: handle exception
